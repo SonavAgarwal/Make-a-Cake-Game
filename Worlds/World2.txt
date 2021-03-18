@@ -1,0 +1,90 @@
+135 108 31
+WorldObject Tree none 100 100
+WorldObject Tree none 843 521
+WorldObject Tree none -710 35
+WorldObject Tree none -1238 -1171
+WorldObject Tree none 876 -1669
+WorldObject Tree none -50 -1002
+WorldObject Tree none -1991 766
+WorldObject Tree none -743 1869
+WorldObject Tree none -638 -418
+WorldObject Tree none 394 160
+WorldObject Tree none -1083 -724
+WorldObject Tree none 1621 1652
+WorldObject Tree none -1611 -1719
+WorldObject Tree none -326 -488
+WorldObject Tree none 111 1267
+WorldObject Tree none -1800 1361
+WorldObject Tree none -1130 393
+WorldObject Tree none 591 -633
+WorldObject Tree none 1157 -1403
+WorldObject Tree none 895 271
+WorldObject Tree none -1227 26
+WorldObject Oven none:none -96 -675
+WorldObject Shack none -96 -675
+WorldObject Mixer none:none -1800 120
+WorldObject Cow Bucket:Milk 316 1093
+NPC InvisDialogue 23 316 1093
+Hey, I'm a cow
+Hey, I'm a cow
+I'm not a cat
+I don't say meow
+Hey, I'm a cow
+Hey, I'm a cow
+Hey, I'm a cow
+Hey, I'm a cow
+I go "mooo"
+Mooooooooooo
+Moooooooooooooooo
+Mooooooooo
+Yeah
+I say, hey, I'm too smooth
+I'm not in the mood
+Tryna make moves
+Tryna make moves
+Hey, I'm too smooth
+I'm not in the mood
+Tryna make moves
+Tryna make moves
+Got milk? Got beef?
+Credit: MOOO Doja Cat
+WorldObject Shack none -1800 120
+WorldObject Shack none 316 1093
+WorldObject Shack none -447 -1700
+WorldObject Shack none 1104 -1663
+WorldObject Mill none -1500 -1500
+Item Flour none -1500 -1500
+NPC Farmer 4 300 -200
+Welcome to my farm!
+We have all sorts of food here!
+We also have the best in class baking equipment.
+If you need anything, feel free to take it.
+NPC Baker 6 -1800 300
+Monsieur!
+I see you have come to use my world class mixer!
+Just chuck in whatever you want!
+And once you're done, punch it once to start it.
+Of course, don't chuck in non-food.
+We like our cakes to be edible, right :).
+NPC Baker 4 -120 -500
+Careful! The oven's really hot!
+Oh wait, it needs wood as fuel.
+Throw in whatever you want to bake!
+And punch it to start!
+NPC Farmer 4 -1200 -1500
+Need some flour?
+Did I say you could take anything you want?
+Yes I did.
+But I never said I would help you get it.
+WorldObject Shack none 1400 400
+NPC Wise 10 1400 400
+I see you've made the trip!
+I have something else too.
+Do you wanna know the recipe for the cake?
+Listen carefully.
+Sugar.
+Milk.
+And...
+Something powdery.
+I can't seem to recall.
+Good luck!

@@ -1,0 +1,34 @@
+212 168 42
+WorldObject Cactus any:none -1380 -2048
+WorldObject Cactus any:none 1622 1372
+WorldObject Cactus any:none -1765 -1547
+WorldObject Cactus any:none 849 1481
+WorldObject Cactus any:none -729 66
+WorldObject Cactus any:none -1104 -1744
+WorldObject Cactus any:none -529 -660
+WorldObject Cactus any:none 1822 -425
+WorldObject Cactus any:none 1323 -1671
+WorldObject Cactus any:none 713 902
+WorldObject Cactus any:none -271 -1002
+WorldObject Cactus any:none -2072 30
+WorldObject Cactus any:none -1788 1304
+WorldObject Cactus any:none 11 -830
+WorldObject Cactus any:none -1174 -1140
+WorldObject Cactus any:none 1518 -414
+WorldObject Cactus any:none -976 671
+WorldObject Cactus any:none -2179 -1818
+WorldObject Cactus any:none 295 1265
+WorldObject Cactus any:none -1618 -1994
+WorldObject Tree none 1616 -330
+WorldObject Tree none -1694 -2021
+WorldObject Tree none -666 1481
+WorldObject Tree none 10 -219
+WorldObject Tree none -323 1144
+WorldObject Tree none -58 -2154
+WorldObject Tree none 1642 1276
+WorldObject Tree none -2030 -2174
+WorldObject Tree none -1811 429
+NPC Desert 3 -200 100
+Welcome to the desert!
+Why have you come here?
+If you're looking for water, this probably isn't it.

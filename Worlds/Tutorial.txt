@@ -1,0 +1,16 @@
+200 200 225
+WorldObject Box none 0 300
+WorldObject Box none 0 900
+WorldObject Box none -300 600
+WorldObject Box none 300 600
+Item Key none 0 600
+WorldObject Safe Key:Gold 0 -300
+NPC Desert 8 -30 30
+Welcome to your instructional tutorial. [Space]
+Use WASD to move.
+Cycle through your hotbar using the numbers or scroll wheel.
+Throw items out with Q.
+Click to attack, place, use, and use on.
+Try getting the gold.
+Once you get it, you will return to the menu.
+Hint: you need a key for the safe.

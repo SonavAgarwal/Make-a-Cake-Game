@@ -1,0 +1,73 @@
+120 117 55
+WorldObject Tree none -842 -594
+WorldObject Tree none 553 -1977
+WorldObject Tree none -181 -386
+WorldObject Tree none 1608 -1660
+WorldObject Tree none -2190 309
+WorldObject Tree none -510 -1445
+WorldObject Tree none 1436 1876
+WorldObject Tree none 988 1731
+WorldObject Tree none 1873 -739
+WorldObject Tree none -1152 -2014
+WorldObject Tree none -2171 -754
+WorldObject Tree none 215 -2042
+WorldObject Tree none -1337 1222
+WorldObject Tree none -916 -65
+WorldObject Tree none -1434 -1399
+WorldObject Tree none -1075 131
+WorldObject Tree none -1614 -1977
+WorldObject Tree none -1173 -1304
+WorldObject Tree none 278 1706
+WorldObject Tree none 1790 -871
+WorldObject Tree none 787 743
+WorldObject Tree none 928 -1112
+WorldObject Tree none -1422 235
+WorldObject Tree none -200 -200
+WorldObject Tree none -750 665
+WorldObject Tree none -1688 1577
+WorldObject Tree none 129 -904
+WorldObject Tree none 1465 -1843
+WorldObject Tree none 1004 -757
+WorldObject Tree none 1811 -456
+WorldObject Tree none -1996 1241
+WorldObject Tree none 504 1762
+WorldObject Tree none -1358 1688
+WorldObject Tree none -1906 -1375
+WorldObject Tree none 260 495
+WorldObject Tree none 1610 1133
+WorldObject Tree none 1110 1850
+WorldObject Tree none 843 639
+WorldObject Tree none 1075 -23
+WorldObject Tree none 1498 -84
+WorldObject Campfire none:none 400 300
+Item Axe none -1500 800
+Item Wood none -600 -600
+WorldObject Well Wood:Bucket 600 -1600
+WorldObject Shack Axe -1500 800
+NPC Logger 9 200 200
+Hey!
+Happy birthday!
+It's so sad I can't come to your party.
+I wouldn't be social distancing.
+How are you gonna get a cake?
+All the stores are closed...
+You'll probably have to make it yourself.
+Could you please fuel my fire though?
+I'll pay you?
+NPC Logger 3 800 -1200
+Hey.
+You see that well over there?
+I hear if you throw something big in, the bucket will come out!
+WorldObject Shack none 1400 400
+NPC Wise 10 1400 400
+H- H- H-
+Hello.
+It's been a long time since anyone has visited me.
+Do you want to hear a secret?
+There's another world.
+With bountiful food and equiptment.
+There you can find what you need to make a cake.
+How do you get there?
+Why, you just hold space!
+See you on the other side!
+WorldObject Ice none 1000 1500
